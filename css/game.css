@@ -1,0 +1,44 @@
+p{
+    padding: 0 30px 0 30px;
+}
+h2{
+    padding: 0 0 0 20px;
+}
+.mainTitle {
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+    color: #D5D4D4;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1;
+    max-width: 100%;
+    word-wrap: break-word;
+    display: block;
+    text-align: center;
+}
+.features{
+    display: block;
+    list-style-type: decimal;
+    padding: 0 30px 10px 30px;
+}
+.title{
+    color: #D5D4D4;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+}
+.textBlock{
+    margin: 5px;
+    border: 2px dotted greenyellow;
+    border-radius: 20px;
+}
+.textInfo{
+    margin: 5px;
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+.video{
+    display: block;
+    text-align: center;
+}
