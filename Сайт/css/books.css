@@ -1,0 +1,36 @@
+.booksList{
+    display: flex;
+}
+.booksArray{
+    display: block;
+}
+.bookX{
+    width: 30%;
+    border: 2px inset gray ;
+    background: #303030;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 10px 10px 10px;
+}
+
+.booksCharacteristic{
+    width: 45%;
+    background: #505050;
+    border: 1px solid gray ;
+    border-radius: 5px;
+    display: table-cell;
+    text-align: center;
+}
+.booksCharacteristicValue{
+    width: 45%;
+    display: table-cell;
+    font-size: 0.6vw;
+    margin: 5px;
+    text-align: center;
+}
+.booksInfo{
+    display: table;
+    margin: 5px;
+    table-layout: fixed;
+    width: 100%;
+}
