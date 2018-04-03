@@ -87,19 +87,19 @@ print_r($string);
             </tr>
             <tr>
                 <td>Программирование:</td>
-                <td><input type="number" name="Physics" min="0" max="10" value="<?php echo($string['Programming']); ?>"></td>
+                <td><input type="number" name="Programming" min="0" max="10" value="<?php echo($string['Programming']); ?>"></td>
             </tr>
             <tr>
                 <td>Английский:</td>
-                <td><input type="number" name="Physics" min="0" max="10" value="<?php echo($string['English']); ?>"></td>
+                <td><input type="number" name="English" min="0" max="10" value="<?php echo($string['English']); ?>"></td>
             </tr>
             <tr>
                 <td>Математика:</td>
-                <td><input type="number" name="Physics" min="0" max="10" value="<?php echo($string['Maths']); ?>"></td>
+                <td><input type="number" name="Maths" min="0" max="10" value="<?php echo($string['Maths']); ?>"></td>
             </tr>
             <tr>
                 <td>физкультура:</td>
-                <td><input type="number" name="Physics" min="0" max="10" value="<?php echo($string['Workout']); ?>"></td>
+                <td><input type="number" name="Workout" min="0" max="10" value="<?php echo($string['Workout']); ?>"></td>
             </tr>
             <tr>
                 <td colspan="2"><input type="submit" value="OK"></td>
