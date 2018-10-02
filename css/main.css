@@ -1,125 +1,192 @@
-body {
+.body {
     margin-top: 0px;
     padding: 0;
-    background: #000 url(../img/background.jpg) top center no-repeat fixed;
+    background: #000 url(../img/background1.png) top center no-repeat ;
     background-size: contain;
     text-align: justify;
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 12px;
     color: #eee;
 }
-a{
-    display: block;
-    background: black;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: gold;
-    margin: 0;
-    border: 1px solid gold;
-}
-ul{
-    list-style-type: none;
+img{
+    max-height: 100%;
     margin: 0;
     padding: 0;
-    display: none;
 }
-.elementMenu:hover > ul{
-    display: block;
-}
-#splash {
-    max-width: 940px;
-    margin: 0 auto 0 auto;
-}
-.menu{
-    max-width: 940px;
-    margin: 0 auto;
-}
-.menu > ul{
-    display: flex;
-    font-size: 25px;
-    height: 50px;
-}
-.elementMenu{
-    display: inline-block;
-    width: 25%;
-    text-align:center;
-    z-index: 999;
-}
-.elementGame{
-    display: block;
-}
-.section{
-    max-width: 940px;
-    margin: 20px auto;
-}
-.additionalMenu{
-    margin: 10px 0 0 0;
-}
-.elementMenu>a:hover, .elementGame>a:hover, .additionalMenu li a:hover{
-    background: #666;
-    font-size: 30px;
-    transition: 0.5s all;
-}
-#footer {
-    max-width: 940px;
-    height: 70px;
-    margin: 0 auto;
-    padding: 0 20px;
-    float: bottom;
-}
-#footer p {
+
+.field {
     margin: 0;
-    padding: 25px 0 0 0;
+    height: 100vh;
+}
+
+.menu{
+    margin: 0;
+    padding: 0;
+    width: calc(100%/(192/55));
+    height: 100vh;
+    float:left;
+}
+
+.row{
+    height: calc(100%/7);
+}
+
+.card{
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    height: 100%;
+}
+
+.count{
+    height: 100%;
+    width: 230px;
+    margin: 0;
+    padding: 0;
+    position:relative;
+    text-align:center;
+    float:left;
+}
+
+.enemyFactionCard{
+    width: 135px;
+    height: calc(100%*(39/97));
+    display: inline-block;
+}
+
+.endOfRound{
+    width: 340px;
+    height: calc(100%*(19/97));
     text-align: center;
-    font-size: smaller;
+    cursor: pointer;
+
 }
-#footer .signature {
-    float: left;
+.myFactionCard{
+    width: 135px;
+    height: calc(100%*(39/97));
+    display: inline-block;
 }
-.disk{
-    width: 45%;
+.choiceDeck{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    color: gray;
+    position: absolute;
+    z-index: 10;
     text-align: center;
 }
-.files{
-    width: 30%;
-    float: right;
-    margin: 0 70px 0 0;
+.choice{
+    padding: 2%;
+    width: 20%;
+    text-align:center;
 }
-.link{
-    border: 0;
-    display: inline;
-    background: rgba(250, 250, 220, 0);
-}
-.background{
-    background: rgba(250, 250, 220, 0.3);
-    max-width: 940px;
-    margin: 0 auto;
-}
-
-.additionalMenu li ul {
-    display:none;
-}
-.main-item:focus ~ .sub-menu,
-.main-item:active ~ .sub-menu,
-.sub-menu:hover {
-    display: block;
-}
-audio{
-    max-width: 100%;
-}
-.laba{
-    background: rgba(250, 250, 220, 0);
+.cardsInfo{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -5;
     text-align: center;
-    height: 50px;
-    font-size: 40px;
 }
-.btnlaba{
-    width: 100px;
+.win{
 }
 
+table {
+    width: 100%;
+    border: 1px solid gray;
+    margin: auto;
+}
+td {
+    text-align: center;
+    background: black;
+    color: white;
+}
+.gameOver{
+    background: black;
+    width: 100vw;
+    height: 100vh;
+}
+.gameOver div{
+    width: 50%;
+    margin: auto;
+}
+.resultImg{
+    width: 100%;
+}
 
+/*----------------------------------------------------------------------*/
+/*Анимация выбора игрока, который будет ходить первый*/
 
+.animationFactionCards{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    perspective: 800px;
+}
+.front, .back{
+    position: absolute;
+    backface-visibility: hidden;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin:0 auto;
 
+    animation-name: spinner;  /* указываем на ключевые кадры анимации с названием "spinner" */
+    animation-timing-function: linear; /* функция синхронизации, с помощью которой будут происходить преобразования */
+    /*animation-iteration-count: infinite; !* количество повторов анимации. "infinite" - значит бесконечно *!*/
+    animation-duration: 2s; /* длительность анимации */
 
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transform-style: preserve-3d; /* указываем что это 3D преобразование */
+}
+.front {
+    animation-name: spinner;  /* указываем на ключевые кадры анимации с названием "spinner" */
+}
 
+.back {
+    animation-name: spinner1;  /* указываем на ключевые кадры анимации с названием "spinner1" */
+}
 
+@keyframes spinner {
+    0% {
+        -moz-transform: rotateY(0deg);
+        -ms-transform: rotateY(0deg);
+        transform: rotateY(0deg);
+    }
+    50% {
+        -moz-transform: rotateY(180deg);
+        -ms-transform: rotateY(180deg);
+        transform: rotateY(180deg);
+    }
+    100% {
+        -moz-transform: rotateY(360deg);
+        -ms-transform: rotateY(360deg);
+        transform: rotateY(360deg);
+    }
+}
+
+@keyframes spinner1 {
+    0% {
+        -moz-transform: rotateY(180deg);
+        -ms-transform: rotateY(180deg);
+        transform: rotateY(180deg);
+    }
+    50% {
+        -moz-transform: rotateY(360deg);
+        -ms-transform: rotateY(360deg);
+        transform: rotateY(360deg);
+    }
+    100%{
+        -moz-transform: rotateY(540deg);
+        -ms-transform: rotateY(540deg);
+        transform: rotateY(540deg);
+    }
+}
+
+/*----------------------------------------------------------------------*/
