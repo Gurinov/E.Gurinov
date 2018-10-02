@@ -1,87 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/js/script.js" line="132" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab0ddab-de83-4ec5-b620-48c7baaa420a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/E.Gurinov.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/af6860d7-9465-4f5c-954e-84701b087513.xml" beforeDir="false" />
+    <list default="true" id="19822e2f-f7ba-45b4-a9dd-cca7013f82d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Сайт.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/S.U.M.E.R.K.I/S.U.M.E.R.K.I1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/S.U.M.E.R.K.I/S.U.M.E.R.K.I2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/S.U.M.E.R.K.I/S.U.M.E.R.K.I3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/S.U.M.E.R.K.I/S.U.M.E.R.K.I4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/S.U.M.E.R.K.I/S.U.M.E.R.K.I5.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/gitara/gitara1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/gitara/gitara2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/gitara/gitara3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/gitara/gitara4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/gitara/gitara5.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/gitara/gitara6.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/other/other1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/other/other2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/other/other3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/other/other4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/other/other5.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/other/other6.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/callOfPripyat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clearSky.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/books.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/game.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/books/book9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bull.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/callOfPripyat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clearSky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/diskCallOfPripyat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/diskClearSky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/diskShadowOfChernobyl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/filesBooks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/filesMusic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img04.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/introCallOfPripyat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/introClearSky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/maxresdefault.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/music.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/o_4e9f1fa130ef9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/shadowOfChernobyl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/splash1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/top_back.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba2/laba2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba3/laba3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba4/laba4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba5/laba5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba6/laba6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba6/template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/laba6/template.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shadowOfChernobyl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/callOfPripyat.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/clearSky.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/shadowOfChernobyl.mp4" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,192 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1939195179">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="64" />
-          <entry key="js" value="1850" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="64" />
-          <entry key="JavaScript" value="1850" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="7" />
-          <entry key="js" value="2" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="7" />
-          <entry key="JavaScript" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
     <session id="91631030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3859375">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/game.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2771">
-                  <caret line="163" column="25" selection-start-line="163" selection-start-column="25" selection-end-line="163" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/server.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-                  <folding>
-                    <element signature="n#!!block;n#choiceDeck#0" />
-                    <marker date="1533647997920" expanded="true" signature="1462:1526" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/script.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="32" column="90" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
-                  <folding>
-                    <marker date="1533803768026" expanded="true" signature="1261:1345" ph="..." />
-                    <marker date="1533803768026" expanded="true" signature="1261:1383" ph="..." />
-                    <marker date="1533803768026" expanded="true" signature="1261:1418" ph="..." />
-                    <marker date="1533803768026" expanded="true" signature="1447:1571" ph="..." />
-                    <marker date="1533803768026" expanded="true" signature="1447:1601" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="package_json" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>TICK_TIME</find>
-      <find>for</find>
-      <find>__dirname</find>
-      <find>state</find>
-      <find>enemys</find>
-      <find>counting</find>
-      <find>index</find>
-      <find>path</find>
-      <find>innerHTML</find>
-      <find>power</find>
-      <find>'true'</find>
-      <find>displayFactionCard</find>
-      <find>moveThisUser</find>
-      <find>alert</find>
-      <find>endMove</find>
-      <find>endRound</find>
-      <find>memory</find>
-      <find>deleteCards</find>
-      <find>deletedCards</find>
-      <find>delete</find>
-      <find>&quot;board&quot;</find>
-      <find>coutingCardsInRow</find>
-      <find>er</find>
-      <find>getRandomCards</find>
-      <find>displayCard</find>
-      <find>sendCards</find>
-      <find>frac</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/js/Card.js" />
-        <option value="$PROJECT_DIR$/js/script123.js" />
-        <option value="$PROJECT_DIR$/js/ыукмук.js" />
-        <option value="$PROJECT_DIR$/js/package-lock.json" />
-        <option value="$PROJECT_DIR$/js/client.js" />
-        <option value="$PROJECT_DIR$/js/static/game.js" />
-        <option value="$PROJECT_DIR$/game.js" />
-        <option value="$PROJECT_DIR$/js/index.html" />
-        <option value="$PROJECT_DIR$/js/game.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/endGame.html" />
-        <option value="$PROJECT_DIR$/page.txt" />
-        <option value="$PROJECT_DIR$/error.html" />
-        <option value="$PROJECT_DIR$/game.html" />
-        <option value="$PROJECT_DIR$/wait.html" />
-        <option value="$PROJECT_DIR$/js/card.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/js/server.js" />
-        <option value="$PROJECT_DIR$/js/script.js" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -285,6 +36,94 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/js/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/js/node_modules/yeast/package.json" />
       <path value="$PROJECT_DIR$/js/package.json" />
     </packageJsonPaths>
   </component>
@@ -294,56 +133,30 @@
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Гвинт" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Гвинт" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Гвинт" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Гвинт" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Гвинт" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.1.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../вращающаяся картинка" />
-    <property name="nodejs_interpreter_path" value="node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Евгений Гуринов\Desktop\Гвинт\js" />
-    </key>
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -357,82 +170,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="js/server.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ab0ddab-de83-4ec5-b620-48c7baaa420a" name="Default" comment="" />
-      <created>1526307570064</created>
+      <changelist id="19822e2f-f7ba-45b4-a9dd-cca7013f82d9" name="Default Changelist" comment="" />
+      <created>1538483702415</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1526307570064</updated>
-      <workItem from="1526307573679" duration="22095000" />
-      <workItem from="1526372196134" duration="14202000" />
-      <workItem from="1526387245247" duration="914000" />
-      <workItem from="1526413522799" duration="8741000" />
-      <workItem from="1526477103713" duration="5392000" />
-      <workItem from="1526560869382" duration="26872000" />
-      <workItem from="1526672314952" duration="155000" />
-      <workItem from="1526816250825" duration="3577000" />
-      <workItem from="1526826132227" duration="27217000" />
-      <workItem from="1526904468794" duration="36689000" />
-      <workItem from="1526979841615" duration="16482000" />
-      <workItem from="1527089119144" duration="8671000" />
-      <workItem from="1527352071088" duration="15504000" />
-      <workItem from="1527534181888" duration="1230000" />
-      <workItem from="1527594266639" duration="16774000" />
-      <workItem from="1527856942824" duration="4240000" />
-      <workItem from="1528459239106" duration="763000" />
-      <workItem from="1528473526167" duration="204000" />
-      <workItem from="1528473732763" duration="601000" />
-      <workItem from="1528478967902" duration="379000" />
-      <workItem from="1528479582373" duration="3127000" />
-      <workItem from="1529062121426" duration="6000" />
-      <workItem from="1532712873583" duration="7178000" />
-      <workItem from="1532780799199" duration="8385000" />
-      <workItem from="1532801250231" duration="7135000" />
-      <workItem from="1532957021322" duration="599000" />
-      <workItem from="1533416127330" duration="6564000" />
-      <workItem from="1533636784553" duration="11333000" />
-      <workItem from="1533668426083" duration="3445000" />
-      <workItem from="1533715967080" duration="4223000" />
-      <workItem from="1533802842554" duration="622000" />
-      <workItem from="1534768865408" duration="342000" />
-      <workItem from="1538476524973" duration="874000" />
+      <updated>1538483702415</updated>
+      <workItem from="1538483706780" duration="857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264535000" />
+    <option name="totallyTimeSpent" value="857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32672232" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39439654" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Event Log" order="4" side_tool="true" weight="0.32952252" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,98 +216,5 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="players" language="JavaScript" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>players</expression-string>
-        <language-id>JavaScript</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/Card.js" />
-    <entry file="file://$PROJECT_DIR$/js/MemoryGame.js" />
-    <entry file="file://$PROJECT_DIR$/js/BrowserInterface.js" />
-    <entry file="file://$PROJECT_DIR$/../E.Gurinov/php/laba8/page1.php" />
-    <entry file="file://$PROJECT_DIR$/../E.Gurinov/php/laba8/page2.php" />
-    <entry file="file://$PROJECT_DIR$/../E.Gurinov/php/laba8/page3.php" />
-    <entry file="file://$PROJECT_DIR$/../E.Gurinov/php/laba8/laba8.php" />
-    <entry file="file://$PROJECT_DIR$/js/script123.js" />
-    <entry file="file://$PROJECT_DIR$/js/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9571">
-          <caret line="653" column="10" selection-start-line="653" selection-start-column="10" selection-end-line="653" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game.js" />
-    <entry file="file://$PROJECT_DIR$/js/client.js" />
-    <entry file="file://$PROJECT_DIR$/js/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/node_modules/socket.io/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/js/game.js" />
-    <entry file="file://$PROJECT_DIR$/gameEnd" />
-    <entry file="file://$PROJECT_DIR$/endGame.html" />
-    <entry file="file://$PROJECT_DIR$/page.txt" />
-    <entry file="file://$PROJECT_DIR$/error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wait.html" />
-    <entry file="file://$PROJECT_DIR$/game.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="25" selection-start-line="163" selection-start-column="25" selection-end-line="163" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!block;n#choiceDeck#0" />
-            <marker date="1533647997920" expanded="true" signature="1462:1526" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="32" column="90" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
-          <folding>
-            <marker date="1533803768026" expanded="true" signature="1261:1345" ph="..." />
-            <marker date="1533803768026" expanded="true" signature="1261:1383" ph="..." />
-            <marker date="1533803768026" expanded="true" signature="1261:1418" ph="..." />
-            <marker date="1533803768026" expanded="true" signature="1447:1571" ph="..." />
-            <marker date="1533803768026" expanded="true" signature="1447:1601" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

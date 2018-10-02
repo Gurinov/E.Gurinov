@@ -1,0 +1,49 @@
+<audio src="/main.mp3" autoplay loop></audio>
+    <div class="cardsInfo" id="cardsInfo">
+    </div>
+    <div class="choiceDeck" id="choiceDeck">
+        <img id="card1" class="choice" src="/img/card/Cевер/0.jpg" alt="">
+        <img id="card2" class="choice" src="/img/card/Белки/0.jpg" alt="">
+        <img id="card3" class="choice" src="/img/card/Нильфгаард/0.jpg" alt="">
+        <img id="card4" class="choice" src="/img/card/Чудовища/0.jpg" alt="">
+    </div>
+    <div class="menu" >
+        <div class="enemyFactionCard" id="enemyFactionCard"></div>
+        <div class="endOfRound" id="endOfRound" title="Завершить раунд"></div>
+        <div class="myFactionCard" id="myFactionCard"></div>
+    </div>
+    <div class="field" id="field">
+        <div class="row">
+            <div class="count" id="enemyArtilleryCount"></div>
+            <div id="enemyArtillery" class="card"></div>
+        </div>
+
+        <div class="row">
+            <div class="count" id="enemyArchersCount"></div>
+            <div id="enemyArchers" class="card"></div>
+        </div>
+
+        <div class="row">
+            <div class="count" id="enemyWarriorsCount"></div>
+            <div id="enemyWarriors" class="card"></div>
+        </div>
+
+        <div class="row">
+            <div class="count" id="myWarriorsCount"></div>
+            <div id="myWarriors" class="card"></div>
+        </div>
+
+        <div class="row">
+            <div class="count" id="myArchersCount"></div>
+            <div id="myArchers" class="card"></div>
+        </div>
+
+        <div class="row">
+            <div class="count" id="myArtilleryCount"></div>
+            <div id="myArtillery" class="card"></div>
+        </div>
+
+        <div class="row">
+            <div id="myCards" class="card"></div>
+        </div>
+    </div>
